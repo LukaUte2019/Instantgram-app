@@ -40,3 +40,5 @@ Chat with someone on Instagram and Lukabook In Instantgram using Cross App Messa
 To chat to someone on Instagram log in to your Instagram account on the Accounts Center in Settings and tap the profile button.
 
 To log in with Lukabook, enter your Lukabook name and password.
+
+
