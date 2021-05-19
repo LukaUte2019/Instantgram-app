@@ -2,6 +2,7 @@
 <b>Feed Posts</b>
 
 There is a feed in this app. Follow someone by searching their name, not username and refresh the feed to see their posts.
+(You can search Instagram accounts if you connect your Instagram account in Account Center.)
 
  <b>Share posts </b>
 
@@ -20,6 +21,7 @@ The chats cannot be seen by anyone, even me.
 <b>Instantgram Direct</b>
 
 Instant messaging service that includes Text messages, sticker messages,Photo messages and chat themes.
+Chat with anyone on Instagram (Needs a Instagram account in Accounts Center.)
 
  <b>Video Chat</b>
 
