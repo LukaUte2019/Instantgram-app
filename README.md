@@ -10,7 +10,7 @@ Share or view posts made by users of this app. You can create a new Post by pres
 
 <b>Fastgram Reels </b>
 
-Fastgram Reels is here! You can watch reels from people who made them in the app (Seperate app) (It’s included in the “Download App” Button. )
+Fastgram Reels is here! You can watch reels from people who made them in the app (Seperate app) (It’s included in the repository).
 
  <b>Built for security</b>
 
@@ -25,7 +25,7 @@ Chat with anyone on Instagram (Needs a Instagram account in Accounts Center.)
 
  <b>Video Chat</b>
 
-Video chat using Agora.io You need a seperate app that will handle video chats. (It’s included in the “Download App” Button.)
+Video chat using Agora.io You need a seperate app that will handle video chats. (It’s included in the repository)
 
  <b>Emojis</b>
 
