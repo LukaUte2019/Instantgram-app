@@ -29,6 +29,14 @@ Video chat using Agora.io You need a seperate app that will handle video chats. 
 
 You can only send the default Facebook Like emoji or emojis from the keyboard. Note: the white skin tone like emoji will turn in to the Facebook Like emoji if you send it to someone.
 
- <b>Chat Theme</b>
+ <b>Chat Themes</b>
 
 Change the chat theme. The current themes are Default,Chill,Tye-Die and Love.
+
+<b>Instagram and Lukabook support</b>
+
+Chat with someone on Instagram and Lukabook In Instantgram using Cross App Messaging
+
+To chat to someone on Instagram log in to your Instagram account and tap the profile button.
+
+To log in with Lukabook, enter your Lukabook name and password.
