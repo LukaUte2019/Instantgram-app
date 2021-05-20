@@ -1,5 +1,6 @@
 # Instantgram-app
-Press "View Code"
+Press "View Code" and download "Instantgram Release new version v10.1.apk"
+
 <b>Feed Posts</b>
 
 There is a feed in this app. Follow someone by searching their name, not username and refresh the feed to see their posts.
