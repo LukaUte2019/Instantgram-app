@@ -1,4 +1,5 @@
 # Instantgram-app
+Press "View Code"
 <b>Feed Posts</b>
 
 There is a feed in this app. Follow someone by searching their name, not username and refresh the feed to see their posts.
