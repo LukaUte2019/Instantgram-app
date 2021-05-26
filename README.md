@@ -1,5 +1,5 @@
 # Instantgram-app
-Press "View Code" and download <b>"Instantgram Release new version v10.1.apk"</b>
+Press "View Code" and download <b>"Instantgram.apk"</b>
 
 <b>Feed Posts</b>
 
