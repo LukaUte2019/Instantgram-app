@@ -46,4 +46,6 @@ To chat to someone on Instagram log in to your Instagram account on the Accounts
 To log in with Lukabook, enter your Lukabook name and password.
 
 <b>Have fun using Instantgram!</b>
-
+<iframe
+  src="https://appetize.io/embed/rbcmrq50k9zwm4yp4392dgr2gc"
+  width="378px" height="800px" frameborder="0" scrolling="no"></iframe>
