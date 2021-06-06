@@ -1,5 +1,5 @@
 # Instantgram-app
-Press "View Code" and download <b>"Instantgram.apk"</b>
+Press "View Code" and download <b>"InstantgramAndroidApp"</b>
 
 <b>Feed Posts</b>
 
